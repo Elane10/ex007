@@ -1,0 +1,12 @@
+Principais formatações, 
+Negrito/Destaque, 
+Italico, 
+Emfase, 
+Texto marcado,
+Texto pequeno, 
+Texto inserido, 
+Texto sublinhado,
+Texto deletado,
+Texto sobrescrito,
+Texto excluido,
+Texto subscrito
