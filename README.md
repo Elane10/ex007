@@ -1,7 +1,7 @@
 Principais formatações, 
 Negrito/Destaque, 
 Italico, 
-Emfase, 
+Enfase, 
 Texto marcado,
 Texto pequeno, 
 Texto inserido, 
